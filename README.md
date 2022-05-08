@@ -1,6 +1,8 @@
 # PaineldeArmarios
 Painel de Controle de Armários (Guarda-volumes) desenvolvido para auxiliar no controle de guardar volumes dos visitantes de um museu.
 
+Desenvolvido em Delphi 10.3
+
 Banco de dados utilizado: MySQL
 Localhost
 Database: Museu
