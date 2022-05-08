@@ -17,7 +17,7 @@ CREATE TABLE `senhas` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 
-Criar taela USUARIOS:
+Criar tabela USUARIOS:
 
 CREATE TABLE `usuarios` (
   `USUARIO` varchar(30) NOT NULL,
